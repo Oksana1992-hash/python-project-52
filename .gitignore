@@ -1,6 +1,6 @@
 # Папка с виртуальным окружением
-venv/.venv
-ven/
+.venv
+.ve/
 # Папка с миграциями
 migrations/
 # *.pyc файлы
@@ -13,3 +13,5 @@ __pycache__/
 .flake8
 # db файл1
 db.sqlite3
+# Файл для зависимостей разработки
+requirements-dev.txt
